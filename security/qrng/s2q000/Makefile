@@ -1,1 +1,0 @@
-obj-$(CONFIG_HW_RANDOM_S2Q000) += qrng_hwrng.o
